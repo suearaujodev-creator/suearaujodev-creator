@@ -1,16 +1,15 @@
-## Hi there 👋
+### Oi, eu sou a Sue! 👋
 
-<!--
-**suearaujodev-creator/suearaujodev-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software na Anhanguera
+💡 Do Zero ao Código | Explorando a interseção entre pessoas e tecnologia
+📍 Juiz de Fora - MG, Brasil
 
-Here are some ideas to get you started:
+✨ Sobre mim:
+- Apaixonada por aprender e transformar ideias em código
+- Foco atual: fundamentos de programação e lógica
+- Acredito que tecnologia é sobre pessoas!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Minha Jornada:
+Iniciando minha trajetória na tecnologia, documentando cada passo por aqui!
+
+*Do Zero ao Código - um commit de cada vez!* 💜
